@@ -5,6 +5,7 @@ PYTHON_VER=3.8.6
 
 # pyenv
 # https://pyenv.github.io/
+# https://github.com/pyenv/pyenv
 
 sudo apt install -y \
     build-essential libffi-dev libssl-dev zlib1g-dev liblzma-dev \
